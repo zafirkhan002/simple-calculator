@@ -1,0 +1,13 @@
+c:\users\ramesh\local disk E\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+c:\users\ramesh\local disk E\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+c:\users\ramesh\local disk E\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+c:\users\ramesh\local disk E\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+c:\users\ramesh\local disk E\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+c:\users\ramesh\local disk E\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\local disk E\visual studio 2012\Projects\Simplecalculator\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Ramesh\local disk E\visual studio 2012\Projects\Simplecalculator\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Ramesh\local disk E\visual studio 2012\Projects\Simplecalculator\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Simplecalculator\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Simplecalculator\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Simplecalculator\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Simplecalculator\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
